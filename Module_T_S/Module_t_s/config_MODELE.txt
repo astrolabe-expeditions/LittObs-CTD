@@ -1,0 +1,6 @@
+id_logger=OSOTS001;    Ne pas toucher de chiffre
+delay_batch=15;        Temp en seconde, temps de mise en veille entre 2 series de mesures (900s par défault)
+number_measures=5;     Nombre de  mesures (5 par défaults)
+debug_mode = 1;        1 si oui 0 si non, pour ouvrir la liaison serie et voir les données
+led_mode = 1;          si Led allumer (1) pour voir ce qui se passe ou non (0)
+clef_test=42;          Ne pas oublier de taper "retour à la ligne aprés la derniére ligne de config
