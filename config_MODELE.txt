@@ -1,0 +1,13 @@
+id_logger=OSOCTD002;   Identifiant de l'instrument . Ne pas toucher de chiffre
+delay_batch=15;        Temp en seconde, temps de mise en veille entre 2 series de mesures (1800s par défault)
+number_measures=5;     Nombre de  mesures (5 par défaults)
+debug_mode=1;        1 = oui, 0 = non. Pour ouvrir la liaison serie et voir les données et les indications de bug ou succes
+led_mode=1;          1 = oui, 0 = non. Pour voir ce qui se passe avec une led
+clef_test=42;          Ne pas oublier de taper "retour à la ligne aprés la derniére ligne de config
+
+
+id_logger=OSOCTD022;
+delay_batch=5;
+number_measures=3;
+debug_mode=1;
+led_mode=1;
