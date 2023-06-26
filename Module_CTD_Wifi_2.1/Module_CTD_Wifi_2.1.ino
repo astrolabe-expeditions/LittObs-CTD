@@ -16,7 +16,7 @@
 // Version et numero de serie
 String fichier_config = "/config.txt";   // nom du fichier de configuration
 String dataFilename = "/datalog.txt";        // nom du fichier de données
-char versoft[] = "2.0";                  // version du code
+char versoft[] = "2.1";                  // version du code pour littobs 2.2 et 2.3 et 2.5 (attention 2.5 il faut modifier la pin de control 5V pour la pin 14)
 // --------------------     FIN DES PARAMETRES MODIFIABLES     -----------------------------------
 
 
@@ -53,8 +53,8 @@ String nbrValue;
 
 // déclaration pour gestion des Led et interrupteur
 const int greenled = 25;               // Led for information
-const int serverpin=27;                // Pin with reed magnet switch for server start
-const int control_pin = 4;             // pin qui controle l'allumage du régulateur
+const int serverpin= 15;                // Pin with reed magnet switch for server start
+const int control_pin = 14;             // pin qui controle l'allumage du régulateur
 
 
 //déclaration pour capteur de pression et température de chez Blue robotic
@@ -124,16 +124,26 @@ void setup() {
 
 
       if(debug_mode==1) Serial.begin(115200);                        // communication avec le PC
-      Wire.begin();                                // initiate I2C communication
+      
+
+      // initiate pin
       pinMode(greenled, OUTPUT);                   // initiate light
-        digitalWrite(greenled, LOW);
       pinMode(control_pin, OUTPUT);                // initiate on Atlas EC
-        digitalWrite(control_pin, LOW);              
       pinMode(serverpin, INPUT_PULLUP);            // intitiate Pin for server
-        //digitalWrite(serverpin, HIGH);
+
+      // Wakeup and power on sensors, pin, SD etc....
+      if (debug_mode==1) Serial.println("------ WAKE UP AND START Measures ---------"); 
+      if (led_mode==1) digitalWrite(greenled, HIGH);                      // mean wake up and start measures
+      digitalWrite(control_pin, HIGH);               //power on conductivity sensors
+      delay(500);             //few time to let the atlas and SD module start correctly
+
+      Wire.begin();                                // initiate I2C communication
+      delay(200);
+
 
       // initialisation sensors
       sensor_fastTemp.init();                      // initiate bluerobotics température sensors
+      delay(300);
       sensor_bar30.init();                        // initiate BlueRobotics Pressure Sensors
 
       delay(300);                                 // delay pour eviter les ecriture trop rapide sur la carte SD en cas de faux contact à l'allumag et laisser le temps au autre composant (atlas de s'allumer correctement)
@@ -146,10 +156,6 @@ void setup() {
   // --------------        HERE IS ONLY THE INTRODUCION           -----------------------------------------------------------
   // -------------- run just once at the startup, and ignore at each loop ---------------------------------------------------
 
-      //light on buzzer or Led on first startup
-            digitalWrite(greenled, HIGH);      // mandatory in the first turn, no conditionnal to config files
-
-            
       // read values on configuration file, and store data into variable
            
             test_sd();                 // test if SD is present and ok
@@ -222,15 +228,11 @@ void setup() {
               led_mode=led_mode_sd.toInt();  
 
  
-      // Wakeup and power on sensors, pin, SD etc....
-            if (debug_mode==1) Serial.print("------ WAKE UP AND START Measures ---------"); 
-            if (led_mode==1) digitalWrite(greenled, HIGH);                      // mean wake up and start measures
-            digitalWrite(control_pin, HIGH);               //power on conductivity sensors
-            delay(500);             //few time to let the atlas and SD module start correctly
+
           
             // test if SD is present and ok
-            test_sd();   
-            delay(300);  
+            //test_sd();   
+            //delay(300);  
 
       // Read all sensors     
             lecture_rtc();               // read RTC Sensors just once

@@ -1,0 +1,6 @@
+id_logger=OSOCTD020;
+delay_batch=10;
+number_measures=3;
+debug_mode=1;
+led_mode=1;
+

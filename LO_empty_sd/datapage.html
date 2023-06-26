@@ -1,0 +1,46 @@
+<!DOCTYPE HTML><html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="icon"  type="image/png" href="img/favicon.png">
+  <script type="text/javascript" src="script.js"></script>
+  
+  <title>LittObs CTD data</title>
+</head>
+
+
+<body class="bg">
+	<h1>LittObs CTD - DATA</h1>
+	<p align="right"><a href="index.html"><button>Return home</button></a></p>
+	<hr>
+	<p class="textinfo"> In this page allow you to manage data. You can sea directly the data and download the file, or erase the data. All data is stored on SD  file : datalog.txt.</p>
+
+	
+	<p> <h2> See data file</h2> </p>
+	
+	<table width=100%>
+		<td><a href="datalog.txt" download> <button>Download data file</button></a></td>
+		<td><a href="seedata.html"><button>See all data directly</button></a></td>
+	<table>
+	<br><br>
+	<hr>
+	<p> <h2> Erase data </h2> </p>
+	<p class="textinfo">All data on the SD file will be deleted. There is no possibility to cancel.</p>
+	<form action="/erase">
+		<b>ERASE ALL DATA (no way to return)<b><input type="checkbox" required><br><br>
+		<input type="submit" value="Submit">
+	</form>
+	
+	<br><br>
+	
+	<hr>
+	
+	<br>
+	<p class="version"> Version 1.0 - Octant - OSO System  </p>
+	<br>
+	
+	
+
+</body>
+
+</html>
