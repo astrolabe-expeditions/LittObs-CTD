@@ -112,4 +112,32 @@ Gerber\_PCB\_Module\_CTD\_v2.3.zip
 
 [https://wikifactory.com/preview/RmlsZTo4ODYyMjY=](https://wikifactory.com/preview/RmlsZTo4ODYyMjY=)
 
-\
+
+
+Test
+
+#### 1. Hardware
+
+**Vérifier les soudures**
+
+* Vérifier à l'aide d'un multimètre que les soudures ne se touchent pas (notamment les transistors qui ont des pattes très rapprochées
+
+**Vérifier le bon fonctionnement du module EZO (petit module vert sur lequel on vient connecter la sonde de conductimétrie)**
+
+* Mettre la carte sous tension, et vérifier que la petit LED du module EZO (module auquel on relie la sonde) clignote﻿. Si ce n'est pas le cas,
+  * Vérifier qu'il y a bien une tension de 5V entre la borne VCC et la borne GND du module violet. Si ce n'est pas le cas, c'est probablement le voltage booster qui n'est pas bon (le petit module munie d'une bobine se trouvant sous la carte ESP). Une solution de secours consiste à soit alimenter directement le module violet avec la sortie 3.3V de la carte ESP, soit à faire un court circuit entre la première et la troisième patte du module voltage booster.
+
+**VÉRIFIER QUE LE MODULE DE CONDUCTIMÉTRIE EZO EST BIEN CONFIGURÉ**
+
+* Par défaut, le capteur communique en UART. Notre programme utilise le protocole I2c pour communiquer avec. Vous savez qu'il est en UART si le module vert clignote en vert puis bleu clair. Il clignote seulement en bleu foncé s'il est en I2c.
+* Pour procéder en changement, munissez vous d'une alimentation stabilisée 5V (une Arduino ou une alimentation de laboratoire), et de 3 fils de connection.
+* Détachez le module vert du module violet et branchez-le de la sorte :
+
+﻿\
+![](https://wikifactory.com/files/RmlsZToxMDc3OTYw)﻿\
+
+
+* Le LED s'allume en bleu, c'est bon !
+* Remettez le module vert sur le module violet (dans le bon sens !)
+
+Lien de la doc : [https://files.atlas-scientific.com/EC\_EZO\_Datasheet.pdf](https://files.atlas-scientific.com/EC\_EZO\_Datasheet.pdf)\
