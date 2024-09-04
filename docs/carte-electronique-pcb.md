@@ -20,14 +20,16 @@ coverY: 0
 **Datalog :**
 
 * ESP32 Firebeetle - Fournisseur
-* Micro SD reader (compatible avec générique (amazon), adafruit micro SD de chez gotronic) - Fournisseur
+* Micro SD reader (compatible avec générique (Amazon, 3.3V), adafruit micro SD de chez gotronic) - Fournisseur
 * Carte micro SD (8Go) - [Fournisseur](https://www.conrad.fr/fr/p/carte-microsdhc-transcend-ultimate-600x-8-gb-class-10-uhs-i-avec-adaptateur-sd-1396522.html)﻿
 * RTC : Compatible avec DS3231 générique Amazon et DS3231M DF Robot chez gotronic - [Fournisseur](https://www.gotronic.fr/art-module-rtc-i2c-dfr0641-32243.htm)﻿
 * Batterie 18650 - 3600mAh x2 - [Fournisseur](https://letmeknow.fr/fr/batteries/2120-batterie-lg-3600ma-18650-8438493108507.html)﻿
 * Led + R 47Ohm
 * condensateurs ( 47pF, 1nF, 100nF)
-* 2 Résistances 4,7kOhm de pullup pour I2C
-* 1 résistance de 4.7KOhm de pulldown pour l’isolateur
+* 2 Résistances 4700 Ohm de pullup pour I2C
+* 1 résistance de 47 Ohm de pulldown pour l’isolateur
+* 1 résistance 1000 Ohm
+* 1 résistance 10 000 Ohm
 * interrupteur à lames souples Reed Switch NO pour mode configuration - [Fournisseur](https://www.gotronic.fr/art-interrupteur-ils-1-rt-4082.htm)﻿
 * interrupteur à lames souples Reed Switch NF 1A pour interrupteur alimentation - [Fournisseur](https://www.gotronic.fr/art-interrupteur-ils-1-t-4080.htm)﻿
 * Connecteur NSK254-2 PCB Male x2
@@ -52,14 +54,14 @@ coverY: 0
 * Micro SD reader (compatible avec générique (amazon), adafruit micro SD de chez gotronic) -[ Fournisseur](https://www.amazon.fr/gp/product/B08YXSP666/ref=ppx\_yo\_dt\_b\_search\_asin\_title?ie=UTF8\&psc=1)﻿
 * Carte micro SD (8Go) - [Fournisseur](https://www.conrad.fr/fr/p/carte-microsdhc-transcend-ultimate-600x-8-gb-class-10-uhs-i-avec-adaptateur-sd-1396522.html)﻿
 * RTC : Compatible avec DS3231 générique Amazon et DS3231M DF Robot chez gotronic - [Fournisseur](https://www.gotronic.fr/art-module-rtc-i2c-dfr0641-32243.htm)﻿
-* Opto Isolateur Atlas (Isolated Carrier Board) -[ Fournisseur](https://www.robesol.nl/en/electrically-isolated-ezo-carrier-board-102660261.html)﻿
-* Circuit de conductivité - [Fournisseur](https://www.robesol.nl/en/ezo-conductivity-circuit-87672188.html)﻿
+* Opto Isolateur Atlas (Isolated Carrier Board) -[ Fournisseur](https://www.robesol.nl/en/electrically-isolated-ezo-carrier-board-102660261.html)
+* Circuit de conductivité EZO - [Fournisseur](https://www.robesol.nl/en/ezo-conductivity-circuit-87672188.html)﻿
 * Led + R 47 Ohm
 * condensateurs ( 47pF, 1nF, 100nF)
 * 2 Résistances 4,7kOhm de pullup pour I2C
 * 1 résistance de 4.7KOhm de pulldown pour l’isolateur
 * interrupteur à lames souples Reed Switch NF 1A pour interrupteur alimentation - [Fournisseur](https://www.gotronic.fr/art-interrupteur-ils-1-t-4080.htm)﻿
-* 2 Connecteurs NSK254-2 PCB Male&#x20;
+* Embase pour CI, JST x2&#x20;
 * Transistor 2N3904
 * Pololu Step-up 5v U1V11F5 - [Fournisseur](https://www.gotronic.fr/art-booster-5-v-u1v11f5-21751.htm)﻿
 * Interrupteur on/off - [Fournisseur﻿](https://fr.rs-online.com/web/p/interrupteurs-a-glissiere/7347296)﻿
