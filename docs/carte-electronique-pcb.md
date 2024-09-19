@@ -135,8 +135,7 @@ Test
 * Pour procéder en changement, munissez vous d'une alimentation stabilisée 5V (une Arduino ou une alimentation de laboratoire), et de 3 fils de connection.
 * Détachez le module vert du module violet et branchez-le de la sorte :
 
-﻿\
-![](https://wikifactory.com/files/RmlsZToxMDc3OTYw)﻿\
+![](.gitbook/assets/image.png)﻿\
 
 
 * Le LED s'allume en bleu, c'est bon !
