@@ -7,39 +7,9 @@ cover: .gitbook/assets/P6202017.JPG
 coverY: 0
 ---
 
-# LittObs - Sonde CTD
+# LittObs | Sonde CTD
 
 ## LittObs | Sondes CTD
-
-by [Astrolabe Expeditions](https://wikifactory.com/+astrolabeexpeditions)Collectionner
-
-0
-
-Suivre
-
-4
-
-* [Vue d'ensemble](https://wikifactory.com/+astrolabeexpeditions/littobsctd)
-* [dossiers](https://wikifactory.com/+astrolabeexpeditions/littobsctd/files)
-* [Tasks2](https://wikifactory.com/+astrolabeexpeditions/littobsctd/tasks)
-
-![LittObs | Sondes CTD](https://res.cloudinary.com/dbshcjrt3/image/upload/w\_1480,h\_986,c\_fill,g\_auto,q\_auto/wikifactory-prod-uploads/180272/beach-2562563\_1920-bc15e-1f56d.jpg)
-
-LittObs est un programme de sciences participatives qui vise à déployer un réseau d’observatoires océanographiques littoraux (fond et surface) en partenariat avec des instituts de recherche et des citoyens.﻿\
-[![](https://wikifactory-prod-uploads.oss-accelerate.aliyuncs.com/186869/avatar.png?response-content-type=image%2Fpng\&response-content-disposition=attachment%3B%20filename%3D%22avatar.png%22\&AWSAccessKeyId=LTAI4GK1mTcvu7wXYTXXtiy6\&Signature=CxmZsgS3KpsVM4r1GIOIPmZ7Uio%3D\&Expires=1725012635)](https://wikifactory.com/@tranchartleo)[M](https://wikifactory.com/@marionboivin)Dernière activité31st Jul 2024●Contributions9Licensen/ASuivre
-
-### Lisez moi <a href="#lisez-moi" id="lisez-moi"></a>
-
-* LittObs\_CTD
-* Equipe impliquée
-* Zones littorales sous l'influence des fleuves
-* Sciences participatives
-* Le capteur
-* Liste du matériel
-* Construction
-* Test
-* Interface de gestion de l'instrument
-* Visualisation et téléchargement des données
 
 ### LittObs\_CTD
 

@@ -4,7 +4,7 @@ cover: .gitbook/assets/Caisson OSO CTD (1).png
 coverY: 0
 ---
 
-# Caisson OSO-CTD
+# Caisson OSO CTD
 
 #### Le capteur
 
@@ -86,16 +86,10 @@ Fichiers imprimante 3D pour support PCB
 Découper le PMMA 10 mm à la découpeuse laser.\
 Fichiers découpeuse laser pour bouchons
 
-[PMMA\_Caps\_02-2023.dxf](https://prod-files-secure.s3.us-west-2.amazonaws.com/1acf120e-63a9-4ded-8ae1-b4d03af0a47f/e94c6fb8-099f-4b04-8d2d-9f236ec2fc17/PMMA\_Caps\_02-2023.dxf)
-
-[PVC\_Caps\_12-2023.dxf](https://prod-files-secure.s3.us-west-2.amazonaws.com/1acf120e-63a9-4ded-8ae1-b4d03af0a47f/4b1ac5e5-5fd8-4fbf-be2d-c34cd2413f78/PVC\_Caps\_12-2023.dxf)\
-Réglages de la découpeuse laser Trotec
-
 \
+Réglages de la découpeuse laser Trotec\
 \* pour la gravure :\
-Matériau : PMMA / Puissance : 90 / Vitesse : 28/ Fréquence : 1000PPI
-
-\
+Matériau : PMMA / Puissance : 90 / Vitesse : 28/ Fréquence : 1000PPI\
 \* pour la découpe :\
 Matériau : PMMA 10mm / Puissance : 100 / Vitesse : 0.10 / Fréquence : 8000Hz\
 
@@ -116,23 +110,16 @@ Bouchon D :\
 
 Les cibles sur le bouchon C correspondent à la position de deux perçages non-\
 traversants. Percer les cibles à 5 mm de profondeur avec la perceuse à colonne\
-(équipée d'un foret à acier de 2,5 mm de diamètre). Tarauder les cibles en M3.
-
-**ATTENTION :** Rappel des diamètres de perçage avant de tarauder.&#x20;
-
-M3 = 2.5mm | M4 = 3.3mm | M5 = 4.2mm | M6 = 5mm | M8 = 6.8mm | M10 = 8.5mm | M12 = 10.3mm\
+(équipée d'un foret à acier de 2,5 mm de diamètre). Tarauder les cibles en M3.\
 
 
 <figure><img src=".gitbook/assets/20240731_172030.jpg" alt=""><figcaption></figcaption></figure>
 
-Puis, chanfreiner l’ouverture centrale du bouchon A à 7,5mm de profondeur avec la\
-perceuse à colonne (équipée d’une fraise à chanfreiner de 15mm de diamètre).\
+Puis, chanfreiner l’ouverture centrale du bouchon A à 7,5 mm de profondeur avec la\
+perceuse à colonne (équipée d’une fraise à chanfreiner de 15 mm de diamètre).\
 
 
-Tarauder les pas de vis du bouchon B en M3.\
-Lien Youtube : https://youtu.be/g5238QJkbxc
-
-
+Tarauder les pas de vis du bouchon B en M3.
 
 **## Découpe du tube PVC et de la barre filetée**
 
@@ -142,7 +129,9 @@ circulaire. Chanfreiner les bords du tube avec l'affleureuse (angle de 45°).\
 Fixer la barre filetée dans l'étau, avec des cales en bois pour la protéger.\
 Découper trois tige de 28,5 cm de longueur avec la scie sauteuse (équipée d'un\
 foret à métaux). Limer les extrémités avec une lime à métaux pour faciliter\
-l’insertion des écrous papillons.\
+l’insertion des écrous papillons.
+
+\
 ![](<.gitbook/assets/20240731\_162153 (1).jpg>)
 
 <figure><img src=".gitbook/assets/20240731_165449.jpg" alt=""><figcaption></figcaption></figure>
