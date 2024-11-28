@@ -9,13 +9,11 @@ coverY: 0
 
 # LittObs | Sonde CTD
 
-## LittObs | Sondes CTD
-
-### LittObs\_CTD
+#### Description
 
 Ce programme de recherche participative vise à déployer un réseau d’observatoires océanographiques littoraux grâce aux citoyens habitant le territoire (Bretagne sud).Ces observatoires sont des stations de mesure posées au fond de l’eau et accessibles depuis la surface avec une bouée, qui enregistrent les paramètres physiques, chimiques ou biologiques de la colonne d'eau.Ici, les premiers capteurs placés seront chargés de mesurer la conductivité, la température et la pression de l'eau afin de déterminer la salinité de l'eau.
 
-#### Equipe impliquée
+#### Équipe impliquée
 
 Astrolabe Expeditions (Association)LOPS - Ifremer (Brest)CRI-MakerLAB (Fablab - Paris)Fabriques du Ponant (Fablab - Brest﻿)
 
