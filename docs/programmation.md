@@ -3,7 +3,7 @@ description: Cette page explique la mise en place du code sur la carte électron
 coverY: 0
 ---
 
-# Programme - code
+# Programmation
 
 **Module programmation**&#x20;
 
@@ -37,7 +37,7 @@ Le **code** se trouve sur : [https://github.com/CedricCourson/LittObs](https://g
 
 **3. Installer la carte ESP32 Firebeetle**
 
-* dans le menu Files > Preferences, ajouter ﻿l'URL suivant dans "Additional board manager" et cliquer sur OK : [http://download.dfrobot.top/FireBeetle/package\_esp32\_index.json](http://download.dfrobot.top/FireBeetle/package\_esp32\_index.json)﻿
+* dans le menu Files > Preferences, ajouter ﻿l'URL suivant dans "Additional board manager" et cliquer sur OK : [http://download.dfrobot.top/FireBeetle/package\_esp32\_index.json](http://download.dfrobot.top/FireBeetle/package_esp32_index.json)﻿
 
 ﻿\
 ![](https://wikifactory.com/files/RmlsZTo5OTc2NDE=)﻿\
@@ -97,11 +97,11 @@ Le **code** se trouve sur : [https://github.com/CedricCourson/LittObs](https://g
 > }
 
 ﻿\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+## Test
 
-#### Test
-
-#### 1. Hardware
+### 1. Hardware
 
 **Vérifier les soudures**
 
@@ -125,9 +125,13 @@ Le **code** se trouve sur : [https://github.com/CedricCourson/LittObs](https://g
 * Le LED s'allume en bleu, c'est bon !
 * Remettez le module vert sur le module violet (dans le bon sens !)
 
-Lien de la doc : [https://files.atlas-scientific.com/EC\_EZO\_Datasheet.pdf](https://files.atlas-scientific.com/EC\_EZO\_Datasheet.pdf)﻿
+Lien de la doc : [https://files.atlas-scientific.com/EC\_EZO\_Datasheet.pdf](https://files.atlas-scientific.com/EC_EZO_Datasheet.pdf)
 
-#### 2. Software
+﻿
+
+### 2. Software
+
+
 
 **1. Télécharger le PROJET**
 
@@ -278,7 +282,7 @@ Blue Robotics Bar30: White=SDA, Green=SCL
 * Le LED s'allume en bleu, c'est bon !
 * Remettez le module vert sur le module violet (dans le bon sens !)
 
-Lien de la doc : [https://files.atlas-scientific.com/EC\_EZO\_Datasheet.pdf](https://files.atlas-scientific.com/EC\_EZO\_Datasheet.pdf)﻿﻿\
+Lien de la doc : [https://files.atlas-scientific.com/EC\_EZO\_Datasheet.pdf](https://files.atlas-scientific.com/EC_EZO_Datasheet.pdf)﻿﻿\
 
 
 **6. Vérifier que les capteurs communiquent avec l'ESP**
@@ -317,10 +321,7 @@ Permet actuellement de synchroniser l’horloge RTC avec l’ordinateur (l’obj
 
 #### Visualisation et téléchargement des données
 
-Plateforme de collecte de données à créer© 2024 Wikifactory Ltd.
 
-* [Page principal](https://wikifactory.com/)
-* [À propos de](https://wikifactory.com/company/about)
-* [Confidentialité](https://wikifactory.com/privacy)
-* [Cookies](https://wikifactory.com/cookies)
-* [termes](https://wikifactory.com/terms)
+
+
+
