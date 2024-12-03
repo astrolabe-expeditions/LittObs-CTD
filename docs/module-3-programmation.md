@@ -1,13 +1,8 @@
 ---
-description: Cette page explique la mise en place du code sur la carte électronique.
 coverY: 0
 ---
 
-# Programmation
-
-**Module programmation**&#x20;
-
-
+# Module 3 : Programmation
 
 Le **code** se trouve sur : [https://github.com/CedricCourson/LittObs](https://github.com/CedricCourson/LittObs)﻿﻿\
 
@@ -320,8 +315,3 @@ Page de gestion des données permettant actuellement de lire directement les don
 Permet actuellement de synchroniser l’horloge RTC avec l’ordinateur (l’objectif : étalonner les capteurs et réglage instrument).![](https://wikifactory.com/files/RmlsZTo5MDMwODM=)
 
 #### Visualisation et téléchargement des données
-
-
-
-
-

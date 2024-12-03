@@ -1,23 +1,18 @@
 ---
-description: >-
-  Il s'agit ici de la partie électronique des sondes. La réalisation de soudure
-  est nécessaire.
 cover: .gitbook/assets/IMG-5872 (1).jpg
 coverY: 0
 ---
 
-# Carte électronique PCB
+# Module 1 : Carte électronique PCB
 
-## Compétence nécessaire&#x20;
+## Compétences requises
 
-* Être capable de faire de la soudure
+* Soudure
+* Électronique
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\
-**Module carte électronique**
 
-> **Etapes de construction :**
+> **Étapes de construction :**
 >
 > 1. Souder tous les pins de la face avant
 > 2. Souder les composants de la face arrière
@@ -54,7 +49,7 @@ coverY: 0
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### **Matériel face avant : (version sans le module UV)**
+**Matériel face avant : (version sans le module UV)**
 
 * ESP32 Firebeetle - Fournisseur
 * Micro SD reader (compatible avec générique (amazon), adafruit micro SD de chez gotronic) -[ Fournisseur](https://www.amazon.fr/gp/product/B08YXSP666/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8\&psc=1)﻿
@@ -87,7 +82,7 @@ coverY: 0
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### **Matériel face arrière :**
+**Matériel face arrière :**
 
 * Batterie 18650 - 3600mAh x2 - [Fournisseur](https://letmeknow.fr/fr/batteries/2120-batterie-lg-3600ma-18650-8438493108507.html)﻿
 * Support batterie 18650 x2 - [Fournisseur](https://letmeknow.fr/fr/coupleurs/1561-support-pour-batterie-18650-0616639922912.html)﻿

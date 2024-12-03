@@ -1,6 +1,6 @@
 # Table of contents
 
 * [LittObs | Sonde CTD](README.md)
-* [Carte électronique PCB](carte-electronique-pcb.md)
-* [Caisson OSO CTD](caisson-oso-ctd.md)
-* [Programmation](programmation.md)
+* [Module 1 : Carte électronique PCB](module-1-carte-electronique-pcb.md)
+* [Module 2 : Caisson CTD](module-2-caisson-ctd.md)
+* [Module 3 : Programmation](module-3-programmation.md)

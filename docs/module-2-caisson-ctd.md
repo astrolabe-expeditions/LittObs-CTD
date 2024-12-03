@@ -1,30 +1,31 @@
 ---
-description: Tutoriel de fabrication de caisson pour sondes CTD. Merci à l'IUEM.
+description: >-
+  Nous remercions Jonathan Flye-Sainte-Marie (LEMAR/IUEM/UBO) ainsi qu'Emmanuel
+  Augereau (CNRS/IUEM/UBO) pour la conception de ces caissons.
 cover: .gitbook/assets/Caisson OSO CTD (1).png
 coverY: 0
 ---
 
-# Caisson OSO CTD
+# Module 2 : Caisson CTD
 
-### Compétences nécessaires&#x20;
+## Compétences requises
 
 * Découpeuse laser
-* impression 3D&#x20;
-* outil de découpe
-* affleureuse
-* taraudage
+* Imprimante 3D&#x20;
+* Affleureuse
+* Taraudage
 
-### Le capteur&#x20;
+Le capteur&#x20;
 
 <div align="left"><figure><img src=".gitbook/assets/20240904_143627.jpg" alt="" width="188"><figcaption><p>à savoir que la sonde est étanche uniquement lorsque les capteurs bouches les trous des bouchons A et B (cf. plus bas)</p></figcaption></figure></div>
 
-### Liste du matériel
+Liste du matériel
 
 ﻿﻿\
 **Boitiers :**
 
 * Tube PVC﻿
-* PCB ([voir si dessous pour le plan](carte-electronique-pcb.md))
+* PCB ([voir si dessous pour le plan](module-1-carte-electronique-pcb.md))
 * 3 tige filetée 3mm, L 25cm
 * écrous x3&#x20;
 * écrous papillons x3
@@ -171,25 +172,4 @@ Limer les extrémités avec une lime à métaux pour faciliter l’insertion des
 
 <div align="left"><figure><img src=".gitbook/assets/20240731_165449.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
-**## Assemblage**
-
-
-
-\
-&#xNAN;**## Partenaires**\
-Fabriques du Ponant
-
-IUEM\
-
-
-
-
-
-
-<div align="left"><img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/1acf120e-63a9-4ded-8ae1-b4d03af0a47f/bc42902b-2f66-49a5-8c6c-325890304ac8/Caisson_OSO_CTD_(1).png" alt="Caisson OSO CTD (1).png"></div>
-
-![Caisson OSO CTD (2).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/1acf120e-63a9-4ded-8ae1-b4d03af0a47f/f4868aaa-69a9-4b2f-a410-5daa59165e44/Caisson_OSO_CTD_\(2\).png)
-
-#### ﻿ 
-
-#### **Module fabrication du caisson**﻿ ﻿
+**## Assemblage**﻿\
