@@ -80,6 +80,8 @@ coverY: 0
 > * le coté plat de la LED doit être orienté vers le haut du PCB
 > * il n'y a pas d'ordre précis pour les condensateurs
 
+L'AtlasScientific (composant pour le capteur de salinité, couleur violet) doit d'abord se voir retirer les pins horizontaux avant d'en mettre de nouveaux verticaux.
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Matériel face arrière :**

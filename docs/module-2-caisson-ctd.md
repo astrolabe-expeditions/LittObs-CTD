@@ -35,7 +35,9 @@ Liste du matériel
 * Joints (à préciser)  x2
 * Joints 2mm épaisseurs - diamètres trou﻿
 
+**## Image du matériel**
 
+<div align="left"><figure><img src=".gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ﻿\
 **Outils et accessoires d'atelier :**
@@ -70,11 +72,6 @@ Traduit avec DeepL.com (version gratuite)
 
 \
 Caisson conçu pour les sondes CTD.
-
-\
-&#xNAN;**## Image du matériel**
-
-![](<.gitbook/assets/2024-08-10_WSV (13) (1).JPG>)
 
 \
 &#xNAN;**## Vue d'ensemble du caisson**
@@ -121,7 +118,7 @@ Bouchons  :\
 <figure><img src=".gitbook/assets/Bouchon A.jpg" alt="" width="188"><figcaption><p>Bouchon A</p></figcaption></figure>
 
 Chanfreiner l’ouverture centrale du bouchon A à 7,5 mm de profondeur avec la\
-perceuse à colonne (équipée d’une fraise à chanfreiner de 15 mm de diamètre). Ne pas chanfreiner plus profond que 1mm. Le joint qui s'y glissera fait 2mm de diamètre.
+perceuse à colonne (équipée d’une fraise à chanfreiner de 15 mm de diamètre). Ne pas chanfreiner plus profond que 2mm. Le joint qui s'y glissera fait 2mm de diamètre.
 
 <figure><img src=".gitbook/assets/Bouchon B.jpg" alt="" width="188"><figcaption><p>Bouchon B</p></figcaption></figure>
 
