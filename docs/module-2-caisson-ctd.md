@@ -117,29 +117,26 @@ Bouchons  :\
 
 <figure><img src=".gitbook/assets/Bouchon A.jpg" alt="" width="188"><figcaption><p>Bouchon A</p></figcaption></figure>
 
-Chanfreiner l’ouverture centrale du bouchon A à 7,5 mm de profondeur avec la\
-perceuse à colonne (équipée d’une fraise à chanfreiner de 15 mm de diamètre). Ne pas chanfreiner plus profond que 2mm. Le joint qui s'y glissera fait 2mm de diamètre.
+Chanfreiner l’ouverture centrale du bouchon A à 1,5 mm de profondeur avec la\
+perceuse à colonne (équipée d’une fraise à chanfreiner de 15 mm de diamètre). Ne pas chanfreiner plus profond que 2 mm. Pour que le chanfrein soit lisse ajuster la vitesse de la perceuse à colonne au minimum (500 rpm). Le joint qui s'y glissera fait 2 mm de diamètre.
 
 <figure><img src=".gitbook/assets/Bouchon B.jpg" alt="" width="188"><figcaption><p>Bouchon B</p></figcaption></figure>
 
-Tarauder les pas de vis du bouchon B en M3.
+Tarauder les 4 petits pas de vis du bouchon B en M3. Tarauder les deux grands pas de vis opposés du bouchon B en M10.
 
 <figure><img src=".gitbook/assets/Bouchon C.jpg" alt="" width="188"><figcaption><p>Bouchon C</p></figcaption></figure>
 
 Les cibles sur le bouchon C correspondent à la position de deux perçages non-\
-traversants. Percer les cibles à 5 mm de profondeur avec la perceuse à colonne\
-(équipée d'un foret à acier de 2,5 mm de diamètre). Tarauder ensuite les trous en M3.
+traversants. Percer les cibles à 6 mm de profondeur avec la perceuse à colonne\
+(équipée d'un foret à acier de 2,5 mm de diamètre). Tarauder ensuite les pas de vis en M3.
 
 <figure><img src=".gitbook/assets/Bouchon D (1).jpg" alt="" width="188"><figcaption><p>Bouchon D</p></figcaption></figure>
 
+Rien à faire de particulier sur le bouchon D.
 
 
-\
 
-
-<figure><img src=".gitbook/assets/20240731_172030.jpg" alt="" width="375"><figcaption><p>Perceuse à colonne à utiliser pour percer les bouchons B et C avec un forêt 2,5mm et chanfreiner le bouchon A.</p></figcaption></figure>
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<figure><img src=".gitbook/assets/20240731_172030.jpg" alt="" width="375"><figcaption><p>Perceuse à colonne à utiliser pour percer les bouchons B et C avec un forêt 2,5 mm et chanfreiner le bouchon A.</p></figcaption></figure>
 
 
 
