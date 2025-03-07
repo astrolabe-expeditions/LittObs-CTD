@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/P6202017.JPG
+cover: ../docs/.gitbook/assets/P6202017.JPG
 coverY: 0
 ---
 
@@ -21,7 +21,7 @@ Le programme LittObs d’Astrolabe Expeditions a pour objectif de déployer un r
 * [Fondation du Crédit Mutuel Alliance Fédérale](https://fondation.creditmutuelalliancefederale.fr/)
 * [Fondation de France](https://www.fondationdefrance.org/)
 
-<figure><img src=".gitbook/assets/Observatoires LittObs.png" alt=""><figcaption><p>Schéma d’un observatoire LittObs | Astrolabe Expeditions</p></figcaption></figure>
+<figure><img src="../docs/.gitbook/assets/Observatoires LittObs.png" alt=""><figcaption><p>Schéma d’un observatoire LittObs | Astrolabe Expeditions</p></figcaption></figure>
 
 ## Étudier les zones littorales sous l'influence des fleuves
 

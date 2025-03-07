@@ -58,17 +58,11 @@ L﻿a construction se divise en 3 modules :
 
 Les modules sont réalisables séparément et simultanément.
 
-->&#x20;
-
-Ces pages décrivent le boîtier étanche (prévu) du CTD LowCost. Notez que BlueRobotics propose de bons boîtiers étanches, voir par exemple (https://bluerobotics.com/store/watertight-enclosures/wtevp/# tube) , mais le prix est assez élevé. Nous avons conçu un boîtier rapide et facile à construire qui ne nécessite que peu d'outils à l'exception d'un lasercut et d'une imprimante 3D (que l'on peut trouver dans la plupart des Fablabs voir : https://www.fablabs.io/labs/map).
+-> Ces pages décrivent le boîtier étanche (prévu) du CTD LowCost. Notez que BlueRobotics propose de bons boîtiers étanches, voir par exemple (https://bluerobotics.com/store/watertight-enclosures/wtevp/# tube) , mais le prix est assez élevé. Nous avons conçu un boîtier rapide et facile à construire qui ne nécessite que peu d'outils à l'exception d'un lasercut et d'une imprimante 3D (que l'on peut trouver dans la plupart des Fablabs voir : https://www.fablabs.io/labs/map).
 
 -> Le corps de l'enceinte est constitué d'un tube PVC standard (européen) à pression (63mm, épaisseur 4.7). Chaque capuchon est constitué de 2 « disques » de PMMA (plexiglas) d'une épaisseur de 10mm comme illustré ci-dessous. Les deux disques des capuchons des capteurs sont maintenus ensemble avec les capteurs BAR30 et FastTemps, un filetage M10 a été réalisé dans le disque PMMA intérieur. Les capteurs de conductivité passent par des trous et l'étanchéité est assurée par un joint torique de 2mm placé dans une rainure triangulaire qui a été réalisée à l'aide d'une fraise à bois. Les dimensions de la rainure ont été ajustées « à l'œil nu » pour permettre au joint torique d'être bien pressé. La situation est plus simple pour le bouchon opposé, où les deux disques de PMMA sont maintenus ensemble par des vis M3, vissées dans des trous borgnes M3 du disque de PMMA extérieur (voir illustration ci-dessous).
 
 -> L'étanchéité entre les bouchons et le tube en PVC est obtenue en pressant un joint torique de 4 mm dans une rainure triangulaire (réalisée à l'aide d'une fraise à bois). Les dimensions de la rainure ont été ajustées « à l'œil nu » pour permettre un bon enfoncement du joint torique. La pression est obtenue en utilisant trois tiges filetées externes qui permettent une bonne réparation de la pression (elle ne fonctionne pas bien avec seulement deux tiges filetées).
-
-Traduit avec DeepL.com (version gratuite)
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \
 Caisson conçu pour les sondes CTD.
